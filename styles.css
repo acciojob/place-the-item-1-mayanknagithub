@@ -1,2 +1,22 @@
-
+.container{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-between;
+	flex-wrap:wrap;
+}
+.one{
+	background-color:green;
+	padding-bottom:50px;
+	padding-right:50px;
+}
+.two{
+	background-color:red;
+	padding-bottom:50px;
+	padding-right:50px;
+}
+.three{
+	background-color:blue;
+	padding-bottom:50px;
+	padding-right:50px;
+}
 /* Your CSS Code here. */
